@@ -1,11 +1,5 @@
-# Pull a base images which gives all the required tools & Libraries  
-# stable official Java runtime base image) 
+# stable official Java runtime base image (Pull a base images which gives all the required tools & Libraries )
 FROM eclipse-temurin:17-jdk  
-
-# # metadata
-# LABEL maintainer="your-email@example.com"
-# LABEL version="1.0"
-# LABEL description="A simple Java application"
 
 # Create a folder where the app code will be stored (working directory)
 WORKDIR /app
