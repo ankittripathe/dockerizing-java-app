@@ -20,4 +20,5 @@
 -  --name -→ gives your container a fixed name
  (otherwise Docker assigns random names like crazy_volhard).
 
--  If your app exposes a port (like 3000 or 8080), you also need:
+# Instructor 
+- trainwithsubham
